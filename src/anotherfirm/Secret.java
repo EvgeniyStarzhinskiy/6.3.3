@@ -4,5 +4,6 @@ public class Secret{
         //... function output firm's secret
         //...
         System.out.println("Secret");
+
     }
 }
